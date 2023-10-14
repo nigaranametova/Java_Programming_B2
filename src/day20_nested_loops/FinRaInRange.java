@@ -1,4 +1,4 @@
-package day20_nested;
+package day20_nested_loops;
 
 import java.util.Scanner;
 
