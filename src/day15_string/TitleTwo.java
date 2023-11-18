@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TitleTwo {
 
     /*        ask the user to enter their name including titles
-            use the following titles to determine how to refer to the person as
+            use the following titles to determine how to refer to the day35_inheritance.day35_inheritance.person.person as
 
             handle case sensitivity. User could enter a title as ms, or MS, or Ms. All should result in a valid result
 

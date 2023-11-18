@@ -2,7 +2,7 @@ package day34_a_static.computer;
 /*
 Computer - static
 
-class name: computer:
+class name: day35_inheritance.computer:
     instance variables:
         price, brand, color, ...
 

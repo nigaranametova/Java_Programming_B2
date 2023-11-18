@@ -8,7 +8,7 @@ ask the user to enter 3 String inputs. Find and print the longest word that also
 Ex:
     "java"
     "mouse"
-    "computer"
+    "day35_inheritance.computer"
 
 Output: java
 
@@ -22,7 +22,7 @@ public class LongestWithA {
 
         String wordOne = input.next();  // java
         String wordTwo = input.next();  // mouse
-        String wordThree = input.next();// computer
+        String wordThree = input.next();// day35_inheritance.computer
 
 
         int wordOneLength =  wordOne.length();  // 4
