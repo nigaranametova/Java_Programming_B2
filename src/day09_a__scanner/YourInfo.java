@@ -11,12 +11,12 @@ public class YourInfo {
         long favouriteNumber = input.nextLong();
 
         input.nextLine(); //this one handles the ENTER key that comes from previous
-        System.out.println("Enter your favourite book: ");
+        System.out.println("Enter your favourite day35_inheritance.book: ");
         String book = input.next();
 
         System.out.println("Your age: " + age);
         System.out.println("Your favourite number: " + favouriteNumber);
-        System.out.println("your book name: " + book);
+        System.out.println("your day35_inheritance.book name: " + book);
     }
 
 }

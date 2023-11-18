@@ -3,9 +3,9 @@ package day12_switch_statements;
 import java.util.Scanner;
 
 /*
-    Declare and assign these variables: Citizenship(boolean), resident (boolean), and has high school diploma (boolean), and age(int). Determine if the person is qualified to join the army.
+    Declare and assign these variables: Citizenship(boolean), resident (boolean), and has high school diploma (boolean), and age(int). Determine if the day35_inheritance.day35_inheritance.person.person is qualified to join the army.
 
-        - The person must be a citizen or a resident
+        - The day35_inheritance.day35_inheritance.person.person must be a citizen or a resident
                     - Their age must be between 18 and 35
                         -> If not print: Your age must be between 18 to 35 years old (inclusive)
                     - They must have a high school diploma
