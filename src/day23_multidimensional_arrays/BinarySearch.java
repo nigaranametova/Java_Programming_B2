@@ -20,14 +20,18 @@ import java.util.Arrays;
 public class BinarySearch {
     public static void main(String[] args) {
 
-        int [] nums = { 4, 18, 30, 20, 100};
-        //              0   1   2   3   4
+        int [] nums = { 4, 10, 30, 20, 100};
+        //              0   1   2   3
 
-        // For this binarySearch method to work --> all elements have to SORTED
+        // For this .binarySearch method to work -- > all elements have to SORTED
         System.out.println(Arrays.binarySearch(nums, 4));
         System.out.println(Arrays.binarySearch(nums, 10));
         System.out.println(Arrays.binarySearch(nums, 100));
         System.out.println(Arrays.binarySearch(nums, 20));
-        System.out.println(Arrays.binarySearch(nums, 200)); // would be in p0sition 4,
+        System.out.println(Arrays.binarySearch(nums, 200)); // would be in p0sition 4, so 4 + 1 = 5 and negative because it is not in array, so -5
+
+
+
+
     }
 }

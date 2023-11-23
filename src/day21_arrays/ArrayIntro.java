@@ -35,7 +35,7 @@ public class ArrayIntro {
 
 
         // How to get the count of the elements in the array
-        // Similar to String we have a method for that. --- > String str = "loop"; --- > str.length()
+        // Similar to String we have day36_inheritance.app.access.day36_inheritance.access.a.a method for that. --- > String str = "loop"; --- > str.length()
         System.out.println(cities2.length);
 
 

@@ -1,6 +1,6 @@
 package day21_arrays;
 /*
-    Ask a user to enter a month number, then print the Name of that months
+    Ask day36_inheritance.app.access.day36_inheritance.access.a.a user to enter day36_inheritance.app.access.day36_inheritance.access.a.a month number, then print the Name of that months
         Input:  1
         Output: January
  */

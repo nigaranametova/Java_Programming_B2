@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class FizzBuzz {
     public static void main(String [] args){
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter a number");
+        System.out.println("Enter day36_inheritance.app.access.day36_inheritance.access.a.a number");
         int number = input.nextInt();
 
         String result = "";

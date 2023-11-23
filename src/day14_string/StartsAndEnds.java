@@ -29,14 +29,14 @@ public class StartsAndEnds {
 
         System.out.println("----------------");
 
-        String sentence = "It is a good day";
-        System.out.println(sentence.startsWith(" a good day"));
-        System.out.println(sentence.endsWith(" a good day"));
+        String sentence = "It is day36_inheritance.app.access.day36_inheritance.access.a.a good day";
+        System.out.println(sentence.startsWith(" day36_inheritance.app.access.day36_inheritance.access.a.a good day"));
+        System.out.println(sentence.endsWith(" day36_inheritance.app.access.day36_inheritance.access.a.a good day"));
         System.out.println(sentence.endsWith("day"));
         System.out.println(sentence.endsWith(" day"));
         System.out.println(sentence.endsWith("d day"));
-        System.out.println(sentence.endsWith("It is a good day"));
-        System.out.println(sentence.endsWith("dd day")); // "It is a good day";
+        System.out.println(sentence.endsWith("It is day36_inheritance.app.access.day36_inheritance.access.a.a good day"));
+        System.out.println(sentence.endsWith("dd day")); // "It is day36_inheritance.app.access.day36_inheritance.access.a.a good day";
 
 
 

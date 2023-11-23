@@ -14,7 +14,7 @@ import java.util.Arrays;
 
     String str = new String(charArrName);
  */
-public class joinExample {
+public class JoinExample {
     public static void main(String[] args) {
 
         String [] words = {"a", "b", "c", "d"};

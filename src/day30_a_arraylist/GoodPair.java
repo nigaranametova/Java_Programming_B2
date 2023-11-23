@@ -10,7 +10,7 @@ public class GoodPair {
     /*
         Remove Bad Pairs
 
-        Create a method that will accept an Integer ArrayList and check for good pairs. A pair is an element and th  element next to it.
+        Create day36_inheritance.app.access.day36_inheritance.access.a.a method that will accept an Integer ArrayList and check for good pairs. A pair is an element and th  element next to it.
         A good pair is whenever the first number in the pair is bigger then the second number. Remove any bad pairs for the ArrayList and return the
         ArrayList with good pairs
 

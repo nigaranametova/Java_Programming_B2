@@ -9,7 +9,7 @@ public class RemoveCountries {
     /*
         Remove Countries
 
-        Create a method that will take an ArrayList of countries and returns an ArrayList of countries that have a length of less than 7
+        Create day36_inheritance.app.access.day36_inheritance.access.a.a method that will take an ArrayList of countries and returns an ArrayList of countries that have day36_inheritance.app.access.day36_inheritance.access.a.a length of less than 7
         @param nums - The given ArrayList of numbers @return - ArrayList of numbers
         Ex:
         Input: "Japan", "Korea", "United States", "Turkey", "United Kingdom", "Canada"

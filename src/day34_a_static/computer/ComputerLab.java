@@ -14,10 +14,10 @@ public class ComputerLab {
         System.out.println(comp1.color);
 
         System.out.println(comp1.hasBattery); // NOT RECOMMENDED
-        // We still can access the static members witht the object reference but it is NOT RECOMMENDED.
+        // We still can day36_inheritance.day36_inheritance.app.app.access the static members witht the object reference but it is NOT RECOMMENDED.
 
         //System.out.println(Computer.brand); // CANNOT DO THIS
-        // In order to access to INSTANCE VARIABLES we HAVE TO create an OBJECT of class
+        // In order to day36_inheritance.day36_inheritance.app.app.access to INSTANCE VARIABLES we HAVE TO create an OBJECT of class
 
 
 

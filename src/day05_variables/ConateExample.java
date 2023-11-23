@@ -1,4 +1,4 @@
-package day05_recap;
+package day05_variables;
 
 public class ConateExample {
     public static void main (String [] args){

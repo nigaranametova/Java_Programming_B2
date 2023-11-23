@@ -15,17 +15,17 @@ public class DoWhileExample {
 
 
 
-        // This loop has a boolean of 'false' but it still runs through the code body ONE time because it is a DO WHILE loop
+        // This loop has day36_inheritance.app.access.day36_inheritance.access.a.a boolean of 'false' but it still runs through the code body ONE time because it is day36_inheritance.app.access.day36_inheritance.access.a.a DO WHILE loop
         int a2 = 0;
 
         do {
             System.out.println(a2); // 0
-            ++a; // a = 1;
+            ++a; // day36_inheritance.app.access.day36_inheritance.access.a.a = 1;
         } while (a2 == 10); // 1 == 10 --- > false
 
 
 
-        // this is a WHILE LOOP which almost same as DO WHILE LOOP, nothing will print from the code body since the condition is FALSE. In this example, loop body never executes.
+        // this is day36_inheritance.app.access.day36_inheritance.access.a.a WHILE LOOP which almost same as DO WHILE LOOP, nothing will print from the code body since the condition is FALSE. In this example, loop body never executes.
         int a3 = 0;
         while (a3 == 10) {
             System.out.println(a3);

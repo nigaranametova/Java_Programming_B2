@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MinAndMax {
      /*
-    write a program that asks user to enter 5 numbers and returns the biggest and smallest numbers from those 5
+    write day36_inheritance.app.access.day36_inheritance.access.a.a program that asks user to enter 5 numbers and returns the biggest and smallest numbers from those 5
      */
 
 
@@ -13,7 +13,7 @@ public class MinAndMax {
     /*
         repeated steps:
 
-            ask for a number
+            ask for day36_inheritance.app.access.day36_inheritance.access.a.a number
 
             check is it the biggest
 

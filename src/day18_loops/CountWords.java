@@ -5,7 +5,7 @@ package day18_loops;
 
     /*
         Count Words
-        Given a sentence determine how many words are in the String.
+        Given day36_inheritance.app.access.day36_inheritance.access.a.a sentence determine how many words are in the String.
         Ex:
         Input:
         This has multiple words
@@ -15,7 +15,7 @@ package day18_loops;
     public class CountWords {
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
-            System.out.print("Enter a sentence: ");
+            System.out.print("Enter day36_inheritance.app.access.day36_inheritance.access.a.a sentence: ");
             String userSentence = input.nextLine().trim();
 
             // This has multiple    words

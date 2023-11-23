@@ -10,9 +10,9 @@ public class ShortCircuit {
                False && True -- > False   --- >  if the first part is False, 2nd part I do not care
                False && False - > False   --- >  if the first part is False, 2nd part I do not care
 
-               int a = 10;
-               System.out.println (false && (a++ > 11));
-               System.out.println (false & (a++ > 11));
+               int day36_inheritance.app.access.day36_inheritance.access.a.a = 10;
+               System.out.println (false && (day36_inheritance.app.access.day36_inheritance.access.a.a++ > 11));
+               System.out.println (false & (day36_inheritance.app.access.day36_inheritance.access.a.a++ > 11));
 
 
 

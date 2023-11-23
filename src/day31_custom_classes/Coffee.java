@@ -8,7 +8,7 @@ public class Coffee {
 
     @Override
     public String toString() {
-        return type + " from " + brand  + " and size of " + size + " oz. \nFor a total price $" + price;
+        return type + " from " + brand  + " and size of " + size + " oz. \nFor day36_inheritance.app.access.day36_inheritance.access.a.a total price $" + price;
     }
 public void drink () {
     System.out.println("Drinking " + type + " of coffee. ");

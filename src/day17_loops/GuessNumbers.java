@@ -9,7 +9,7 @@ public class GuessNumbers {
         int guessedNumber;
 
         do{
-            System.out.print ("Guess a number from 1 - 100: ");
+            System.out.print ("Guess day36_inheritance.app.access.day36_inheritance.access.a.a number from 1 - 100: ");
             guessedNumber = input.nextInt();
 
             if(guessedNumber > secretNumber) {  // 90 > 77 ---- >

@@ -3,7 +3,7 @@ package day08_scaner_logical_operators;
 public class SignType {
     /*
          Task:
-            Declare and assign a number
+            Declare and assign day36_inheritance.app.access.day36_inheritance.access.a.a number
 
             I want to know the sign of the number
                 if the number positive

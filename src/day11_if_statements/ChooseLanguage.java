@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ChooseLanguage {
     /*
-        ask the user to enter a number based on the language they wanted to use.
+        ask the user to enter day36_inheritance.app.access.day36_inheritance.access.a.a number based on the language they wanted to use.
         1 - English
         2 - Spanish
         3 - Turkish
@@ -12,7 +12,7 @@ public class ChooseLanguage {
         5 - French
         6 - Azerbaijan
 
-        based on the number they picked print a message:
+        based on the number they picked print day36_inheritance.app.access.day36_inheritance.access.a.a message:
 
         1 : "hello, thanks for your call"
         2 : "hola, gracias para llamar"

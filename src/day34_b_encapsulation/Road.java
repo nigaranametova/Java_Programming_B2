@@ -6,7 +6,7 @@ public class Road {
 
             TrafficLight light = new TrafficLight("green");
             //light.color = "red";
-            // Since my instance variable is PRIVATE, I do NOT have direct access to it out-side of the class.
+            // Since my instance variable is PRIVATE, I do NOT have direct day36_inheritance.day36_inheritance.app.app.access to it out-side of the class.
 
 
             // How can I give an INDIRECT ACCESS to READ

@@ -8,7 +8,7 @@ import java.util.Scanner;
     /*
 
     Task
-        ask the user to enter a url
+        ask the user to enter day36_inheritance.app.access.day36_inheritance.access.a.a url
         find and print the website from the url
 
         assume your url always starts with www.
@@ -22,7 +22,7 @@ import java.util.Scanner;
     public class Title {
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
-            System.out.print("Enter a URL: " );  // www.google.com
+            System.out.print("Enter day36_inheritance.app.access.day36_inheritance.access.a.a URL: " );  // www.google.com
             String url = input.next().toLowerCase(); // WWW, www, Www, WwW, WWw ---- > www
             System.out.print("Now, enter your name with title: ");
             String name = input.next();

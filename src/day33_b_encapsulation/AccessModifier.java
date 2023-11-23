@@ -2,9 +2,9 @@ package day33_b_encapsulation;
 
 public class AccessModifier {
 
-    public int a; // public access modifier
-    int b;  // default access modifier
-    private int c; // private access modifiers
+    public int a; // public day36_inheritance.day36_inheritance.app.app.access modifier
+    int b;  // default day36_inheritance.day36_inheritance.app.app.access modifier
+    private int c; // private day36_inheritance.day36_inheritance.app.app.access modifiers
 
 
 

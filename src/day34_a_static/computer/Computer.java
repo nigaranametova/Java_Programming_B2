@@ -8,7 +8,7 @@ class name: day35_inheritance.computer:
 
     static variables: hasScreen, hasBattery, hasMemory
 
-    make objects of the class in a main method and access both instance and static members from proper references
+    make objects of the class in day36_inheritance.app.access.day36_inheritance.access.a.a main method and day36_inheritance.day36_inheritance.app.app.access both instance and static members from proper references
 
  */
 public class Computer {

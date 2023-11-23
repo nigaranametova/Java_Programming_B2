@@ -14,7 +14,7 @@ public class SumElements {
         int sum = 0;
 
         // Need to get each element one by one
-        //    I can add each of them and store it into a new variable
+        //    I can add each of them and store it into day36_inheritance.app.access.day36_inheritance.access.a.a new variable
 
         for (int i = 0; i < nums.length; i++) {
             //System.out.println(nums[i]);

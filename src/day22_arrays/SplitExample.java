@@ -1,4 +1,5 @@
 package day22_arrays;
+
 import java.util.Arrays;
 
 public class SplitExample {
@@ -67,4 +68,3 @@ public class SplitExample {
 
     }
 }
-

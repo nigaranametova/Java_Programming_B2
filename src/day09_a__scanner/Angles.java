@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Angles {
     /*
-    Write a program that asks thue user to enter 3 angles numbers ( can be floating
+    Write day36_inheritance.app.access.day36_inheritance.access.a.a program that asks thue user to enter 3 angles numbers ( can be floating
     numbers/decimal)
 
      */
@@ -21,8 +21,8 @@ public class Angles {
         boolean isTriangle = total == 180;
         boolean isCircle = total == 360;
 
-        System.out.println("It is a triangle: " + isTriangle);
-        System.out.println("It is a circle: " + isCircle);
+        System.out.println("It is day36_inheritance.app.access.day36_inheritance.access.a.a triangle: " + isTriangle);
+        System.out.println("It is day36_inheritance.app.access.day36_inheritance.access.a.a circle: " + isCircle);
     }
 
 }

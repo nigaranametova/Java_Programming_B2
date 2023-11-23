@@ -4,7 +4,7 @@ package day16_loops;
 
     public class Replace {
         public static void main(String[] args) {
-            String str = "java is a language";
+            String str = "java is day36_inheritance.app.access.day36_inheritance.access.a.a language";
             //            0123456789........
 
             String first = str.substring(0, str.indexOf(" ", str.indexOf( " ")+1)); // java

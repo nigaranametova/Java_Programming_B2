@@ -10,14 +10,14 @@ public class Offer {
     int numberOfPTO;
 
 
-    // create a constructor with two parameters - company and location
+    // create day36_inheritance.app.access.day36_inheritance.access.a.a constructor with two parameters - company and location
     public Offer (String company, String location){
         this.company = company;
         this.location = location;
     }
 
 
-    //create a constructor with all parameters - company, location, salary, isFullTime, numberOfPTO
+    //create day36_inheritance.app.access.day36_inheritance.access.a.a constructor with all parameters - company, location, salary, isFullTime, numberOfPTO
     public Offer (String company, String location, double salary, boolean isFullTime, int numberOfPTO) {
         this.company = company;
         this.location = location;
@@ -32,6 +32,6 @@ public class Offer {
     public String toString () {
         return company + " located in " + location +
                 "\nPays $" + salary + " salary and provides " + numberOfPTO + " number of PTO" +
-                "\nThis is a full time position: " + isFullTime;
+                "\nThis is day36_inheritance.app.access.day36_inheritance.access.a.a full time position: " + isFullTime;
 
     }}

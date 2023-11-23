@@ -2,10 +2,10 @@ package day14_string;
 
 /*
 
-        Ask the user to enter a username
+        Ask the user to enter day36_inheritance.app.access.day36_inheritance.access.a.a username
         make sure the username is in lowercase
 
-        Ask the user to enter a password
+        Ask the user to enter day36_inheritance.app.access.day36_inheritance.access.a.a password
         check if the password is more than 8 characters long
 
         valid system password: "loopcamp2023"

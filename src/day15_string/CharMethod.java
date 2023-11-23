@@ -8,9 +8,9 @@ public class CharMethod {
         System.out.println(s.length());  // 4 -- > number of the total characters
 
         System.out.println(s.charAt(0)); // j --- > dataType will be char
-        System.out.println(s.charAt(1)); // a --- > dataType will be char
+        System.out.println(s.charAt(1)); // day36_inheritance.app.access.day36_inheritance.access.a.a --- > dataType will be char
         System.out.println(s.charAt(2)); // v --- > dataType will be char
-        System.out.println(s.charAt(3)); // a --- > dataType will be char
+        System.out.println(s.charAt(3)); // day36_inheritance.app.access.day36_inheritance.access.a.a --- > dataType will be char
 
 
         //System.out.println(s.charAt(4)); // There is no INDEX 4 - > RUN TIME EXCEPTION (ERRORS)

@@ -6,7 +6,7 @@ public class Store {
     public static void main(String[] args) {
         String []  items = {"Shoes", "Jackets", "Gloves", "Airpods", "IPhones"};
         boolean hasJacket = false;
-        // Do we have a Jacket in the store?
+        // Do we have day36_inheritance.app.access.day36_inheritance.access.a.a Jacket in the store?
 
         // Here we just did simple String method chaining and check if it contains.
         System.out.println(Arrays.toString(items).toLowerCase().contains("jacket"));
@@ -35,9 +35,9 @@ public class Store {
 
 
 
-        // As a user to give you how many items are in stock
+        // As day36_inheritance.app.access.day36_inheritance.access.a.a user to give you how many items are in stock
         // Then store those item names into String array by asking items name to the user
-        // Then ask a user which item they are looking for.
+        // Then ask day36_inheritance.app.access.day36_inheritance.access.a.a user which item they are looking for.
         // If it exist, print --- > Item is in stock
         // if not, print --- >  item is not in stock
 

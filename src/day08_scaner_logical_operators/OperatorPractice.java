@@ -15,7 +15,7 @@ public class OperatorPractice {
         System.out.println("-------------------");
 
 
-        int a = 8; // a = 7;
+        int a = 8; // day36_inheritance.app.access.day36_inheritance.access.a.a = 7;
         int b = a--;  // b = 8;
         System.out.println(a); // 7
         System.out.println(b); // 8

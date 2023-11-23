@@ -8,12 +8,12 @@ public class Employee {
 
 
 
-    // create a constructor with two parameter - name & jobTitle
+    // create day36_inheritance.app.access.day36_inheritance.access.a.a constructor with two parameter - name & jobTitle
     public Employee (String name, String jobTitle) {
         this.name = name;
         jobTitle = jobTitle;
     }
-    // create a constructor with four parameters - name, jobTitle, id, salary
+    // create day36_inheritance.app.access.day36_inheritance.access.a.a constructor with four parameters - name, jobTitle, id, salary
 
     public Employee (String name, int id, String jobTitle, double salary) {
         this.name = name;
@@ -21,7 +21,7 @@ public class Employee {
         this.jobTitle = jobTitle;
         this.salary = salary;
 
-        // create a method that say $name is going into meeting.
+        // create day36_inheritance.app.access.day36_inheritance.access.a.a method that say $name is going into meeting.
 
 
     }

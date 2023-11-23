@@ -40,7 +40,7 @@ public class IfElseExample {
         // any single if statement does NOT depend on another statement
         if (!isLockdown) {
             System.out.println("Party");
-            System.out.println("This is not a normal party. It is a Java Party");
+            System.out.println("This is not day36_inheritance.app.access.day36_inheritance.access.a.a normal party. It is day36_inheritance.app.access.day36_inheritance.access.a.a Java Party");
             System.out.println("Travel");
         }
          */
@@ -55,7 +55,7 @@ public class IfElseExample {
             System.out.println("When you study put your mask on");
         }else {
             System.out.println("Party");
-            System.out.println("This is not a normal party. It is a Java Party");
+            System.out.println("This is not day36_inheritance.app.access.day36_inheritance.access.a.a normal party. It is day36_inheritance.app.access.day36_inheritance.access.a.a Java Party");
             System.out.println("Travel");
         }
 

@@ -2,11 +2,11 @@ package day11_if_statements;
 
 public class Diver {
     /*
-  create a class Diver
+  create day36_inheritance.app.access.day36_inheritance.access.a.a class Diver
 
-  You are diving in the ocean. Your oxygen tank has a certain level (number)
+  You are diving in the ocean. Your oxygen tank has day36_inheritance.app.access.day36_inheritance.access.a.a certain level (number)
 
-  declare and assign a int variable about the oxygen level in the tank and print a message based on the oxygen level:
+  declare and assign day36_inheritance.app.access.day36_inheritance.access.a.a int variable about the oxygen level in the tank and print day36_inheritance.app.access.day36_inheritance.access.a.a message based on the oxygen level:
 
       Above 90 - Your tank is full
       Above 80 - Still okay
@@ -28,7 +28,7 @@ public class Diver {
         } else if (oxygenLevel > 50) {
             System.out.println("Be careful now you at at 50%");
         } else {
-            System.out.println("You were a good. Rest in peace. BYE BYE");
+            System.out.println("You were day36_inheritance.app.access.day36_inheritance.access.a.a good. Rest in peace. BYE BYE");
         }
 
         System.out.println("------------------------------------------");
@@ -46,7 +46,7 @@ public class Diver {
         } else if (oxygenLevel > 90) {
             System.out.println("Be careful now you at at 50%");
         } else {
-            System.out.println("You were a good. Rest in peace. BYE BYE");
+            System.out.println("You were day36_inheritance.app.access.day36_inheritance.access.a.a good. Rest in peace. BYE BYE");
         }
 
         System.out.println("------------------------------------------");
@@ -64,7 +64,7 @@ public class Diver {
         } else if (oxygenLevel > 50) {
             message = "Be careful now you at at 50%";
         } else {
-            message = "You were a good. Rest in peace. BYE BYE";
+            message = "You were day36_inheritance.app.access.day36_inheritance.access.a.a good. Rest in peace. BYE BYE";
         }
 
         System.out.println(message);
