@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 /*
     String numbers to sum
-    Create a method that will accept an ArrayList of numbers in String format, add each digit of each element and store into a different ArrayList. Return the ArrayList of summed numbers
+    Create day36_inheritance.app.access.day36_inheritance.access.a.a method that will accept an ArrayList of numbers in String format, add each digit of each element and store into day36_inheritance.app.access.day36_inheritance.access.a.a different ArrayList. Return the ArrayList of summed numbers
     Ex:
     Input:
         “123”, “34”, “513”

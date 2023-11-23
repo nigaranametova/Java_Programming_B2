@@ -16,7 +16,7 @@ public class Palindrome {
         // reading from end --- >  how can I get that word reversed?
 
         for (int i = original.length()-1;    i >= 0 ;       i--) {
-            reversed += original.charAt(i); // a + v = av + a = ava + j = avaj
+            reversed += original.charAt(i); // day36_inheritance.app.access.day36_inheritance.access.a.a + v = av + day36_inheritance.app.access.day36_inheritance.access.a.a = ava + j = avaj
         }
 
         System.out.println(original);

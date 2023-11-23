@@ -1,4 +1,4 @@
-package day05_recap;
+package day05_variables;
 
 public class MyName {
     public static void main (String [] args){
@@ -16,7 +16,9 @@ public class MyName {
         System.out.println(five);
         System.out.println(six);
 
+
         System.out.println(first + second + three + four + five + six);
+
         System.out.println("My name is: " + first + second + three + four + five + six);
 
         String myName = "" + first + second + three + four + five + six;

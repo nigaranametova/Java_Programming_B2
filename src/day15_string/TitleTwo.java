@@ -7,7 +7,7 @@ public class TitleTwo {
     /*        ask the user to enter their name including titles
             use the following titles to determine how to refer to the day35_inheritance.day35_inheritance.person.person as
 
-            handle case sensitivity. User could enter a title as ms, or MS, or Ms. All should result in a valid result
+            handle case sensitivity. User could enter day36_inheritance.app.access.day36_inheritance.access.a.a title as ms, or MS, or Ms. All should result in day36_inheritance.app.access.day36_inheritance.access.a.a valid result
 
                 titles:
 
@@ -15,7 +15,7 @@ public class TitleTwo {
                     Ms or Miss or Madam
                     Dr
 
-                and some titles can come after a name:
+                and some titles can come after day36_inheritance.app.access.day36_inheritance.access.a.a name:
 
                     Sr  --> Tom Sr
                     Jr

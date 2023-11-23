@@ -5,7 +5,7 @@ public class UpperAndLower {
         String str = "LooPCamP";
 
         System.out.println(str);
-        System.out.println(str.toLowerCase());  // it will make the String value to be in a lowercase.
+        System.out.println(str.toLowerCase());  // it will make the String value to be in day36_inheritance.app.access.day36_inheritance.access.a.a lowercase.
 
         str = str.toLowerCase();
         System.out.println(str);

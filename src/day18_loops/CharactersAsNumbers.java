@@ -1,7 +1,7 @@
 package day18_loops;
 /*
             Characters in String
-                Given a String print the ascii value codes for each character
+                Given day36_inheritance.app.access.day36_inheritance.access.a.a String print the ascii value codes for each character
                 Ex:
                 Input:
                 java

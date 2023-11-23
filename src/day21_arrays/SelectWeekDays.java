@@ -8,7 +8,7 @@ public class SelectWeekDays {
         //                        0        1            2            3         4          5          6
 
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter a number that represents a week day: ");
+        System.out.print("Enter day36_inheritance.app.access.day36_inheritance.access.a.a number that represents day36_inheritance.app.access.day36_inheritance.access.a.a week day: ");
 
         int userNum = input.nextInt();
 
@@ -22,6 +22,6 @@ public class SelectWeekDays {
         }
 
 
-        // Ask a user to enter the valid input until it is actually valid.
+        // Ask day36_inheritance.app.access.day36_inheritance.access.a.a user to enter the valid input until it is actually valid.
     }
 }

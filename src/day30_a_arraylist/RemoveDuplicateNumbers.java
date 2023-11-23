@@ -7,7 +7,7 @@ import java.util.Collections;
 /*
     Remove Duplicates
 
-    Create a method that will take an ArrayList of numbers and remove any duplicates values.
+    Create day36_inheritance.app.access.day36_inheritance.access.a.a method that will take an ArrayList of numbers and remove any duplicates values.
     The method will return an ArrayList of unique elements.
     @param nums - The given ArrayList of numbers @return - ArrayList of numbers
     Ex:

@@ -1,4 +1,4 @@
-package day05_recap;
+package day05_variables;
 
 public class CharExample {
     public static void main (String [] args) {

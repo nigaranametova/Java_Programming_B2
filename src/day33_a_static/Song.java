@@ -2,7 +2,7 @@ package day33_a_static;
 
 public class Song {
     /*
-    Built a structure that I can make an object
+    Built day36_inheritance.app.access.day36_inheritance.access.a.a structure that I can make an object
     which will have 4 fields / instance variables.
     -name, length, artist, genre
 

@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class ArrayIntro2 {
     public static void main(String[] args) {
         // When you make an array with 'new' keyword, you mUST give the size of it.
-        // each element will have a default values depending on the data type of array
+        // each element will have day36_inheritance.app.access.day36_inheritance.access.a.a default values depending on the data type of array
         double [] arr = new double[4]; // There will be total 4 elements in this array
         System.out.println(arr.length); //4
         System.out.println(Arrays.toString(arr));
@@ -26,7 +26,7 @@ public class ArrayIntro2 {
         arr[2] = 200.0;  // We RE-ASSIGNED the value at index 2
         System.out.println(Arrays.toString(arr));
 
-        arr = new double[5]; // This creates a new array with 5 elements
+        arr = new double[5]; // This creates day36_inheritance.app.access.day36_inheritance.access.a.a new array with 5 elements
 
         System.out.println(Arrays.toString(arr));
         System.out.println(arr[1]);

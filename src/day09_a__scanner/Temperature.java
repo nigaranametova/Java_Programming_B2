@@ -9,7 +9,7 @@ public class Temperature {
         ask the user to enter the temperature
 
         if the temperature is above or equal to 70
-            print: Its a nice day
+            print: Its day36_inheritance.app.access.day36_inheritance.access.a.a nice day
                    Go outside, but with your laptop to code java
         if the temperature if less than 70
             print: Its too cold
@@ -25,7 +25,7 @@ public class Temperature {
         //if ()result {
 
         if (temp>=70){
-            System.out.println("It is a nice day");
+            System.out.println("It is day36_inheritance.app.access.day36_inheritance.access.a.a nice day");
             System.out.println("Go outside, but with your laptop to code java ");
 
         }else {

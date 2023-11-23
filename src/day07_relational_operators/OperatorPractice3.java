@@ -3,8 +3,8 @@ package day07_relational_operators;
 public class OperatorPractice3 {
      public static void main (String[] args){
 
-         int h = 5; // i declared an int variable called h and assign a value 5 to it.
-         int p = h; // i declare an int variable called p and assigned a value from variable h
+         int h = 5; // i declared an int variable called h and assign day36_inheritance.app.access.day36_inheritance.access.a.a value 5 to it.
+         int p = h; // i declare an int variable called p and assigned day36_inheritance.app.access.day36_inheritance.access.a.a value from variable h
 
          h++;
          System.out.println("h: " + h); // Output: 6

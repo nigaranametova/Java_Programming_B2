@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 /*
 declare and assign 2 number variables
-declare and assign a char variable for an operator
+declare and assign day36_inheritance.app.access.day36_inheritance.access.a.a char variable for an operator
 
-create a calculator based on the operator picked
+create day36_inheritance.app.access.day36_inheritance.access.a.a calculator based on the operator picked
     + : add num1 and num2
     - : minus num1 and num2
     * : multiply num1 and num2
@@ -16,9 +16,9 @@ create a calculator based on the operator picked
 public class Calculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter a number1: ");
+        System.out.println("Enter day36_inheritance.app.access.day36_inheritance.access.a.a number1: ");
         int num1 = input.nextInt();
-        System.out.println("Enter a number 2: ");
+        System.out.println("Enter day36_inheritance.app.access.day36_inheritance.access.a.a number 2: ");
         int num2 = input.nextInt();
         System.out.println("Pick Operator: \n\t+\n\t-\n\t*\n\t/\n\t%");
         String operator = input.next();

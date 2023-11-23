@@ -3,8 +3,8 @@ package day11_if_statements;
 
         /*
         Task:
-            declare and assign a price variable
-            declare and assign a boolean - hasPrime variable
+            declare and assign day36_inheritance.app.access.day36_inheritance.access.a.a price variable
+            declare and assign day36_inheritance.app.access.day36_inheritance.access.a.a boolean - hasPrime variable
 
             possible outputs:
 

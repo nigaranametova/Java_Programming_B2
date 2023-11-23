@@ -18,7 +18,7 @@ public class FinRaInRange {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter a number: ");
+        System.out.print("Enter day36_inheritance.app.access.day36_inheritance.access.a.a number: ");
         int num = input.nextInt();
 
         // 12

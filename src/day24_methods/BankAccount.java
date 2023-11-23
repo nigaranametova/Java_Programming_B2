@@ -11,7 +11,7 @@ public class BankAccount {
         3 - balance
      */
     public static void main(String[] args) {
-        // Ask a user to enter how many account there will be
+        // Ask day36_inheritance.app.access.day36_inheritance.access.a.a user to enter how many account there will be
         Scanner input = new Scanner(System.in);
         System.out.print("Enter how many account are there: ");
         int numOfAcc = input.nextInt(); // 2
@@ -43,7 +43,7 @@ public class BankAccount {
 
 
         System.out.println("--------------------------------------------");
-        // The code below is just a smaple makeing a single dimensional array and storing values into it.
+        // The code below is just day36_inheritance.app.access.day36_inheritance.access.a.a smaple makeing day36_inheritance.app.access.day36_inheritance.access.a.a single dimensional array and storing values into it.
         String [] bankAcc1 = {"Tom Jerry", "Saving", "1111-2222-3333", "100,000"};
         System.out.println("Number of elements: " + bankAcc1.length); // 4
         System.out.println("Whole Array: " + Arrays.toString(bankAcc1));

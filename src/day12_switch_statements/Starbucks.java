@@ -65,7 +65,7 @@ public class Starbucks {
 
 
             if (isNotValid) {
-                System.out.println("You order for a " + size + " coffee is $" + price + " and has " + calories + " calories.");
+                System.out.println("You order for day36_inheritance.app.access.day36_inheritance.access.a.a " + size + " coffee is $" + price + " and has " + calories + " calories.");
             }
 
 

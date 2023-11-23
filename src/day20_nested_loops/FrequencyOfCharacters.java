@@ -8,29 +8,29 @@ public class FrequencyOfCharacters {
 
         count how many times each letter is in the String
 
-        a - 1
+        day36_inheritance.app.access.day36_inheritance.access.a.a - 1
         p - 2
         l - 1
         e - 1
 
         what we will try to do:
 
-            we will go one character at a time
+            we will go one character at day36_inheritance.app.access.day36_inheritance.access.a.a time
 
-            charAt(0) --> a
+            charAt(0) --> day36_inheritance.app.access.day36_inheritance.access.a.a
 
                 apple
-                    a == a
-                    a == p
-                    a == p
-                    a == l
-                    a == e
+                    day36_inheritance.app.access.day36_inheritance.access.a.a == day36_inheritance.app.access.day36_inheritance.access.a.a
+                    day36_inheritance.app.access.day36_inheritance.access.a.a == p
+                    day36_inheritance.app.access.day36_inheritance.access.a.a == p
+                    day36_inheritance.app.access.day36_inheritance.access.a.a == l
+                    day36_inheritance.app.access.day36_inheritance.access.a.a == e
 
              charAt(1) --> p
 
                  apple
 
-                    p == a
+                    p == day36_inheritance.app.access.day36_inheritance.access.a.a
                     p == p
                     p == p
                     p == l

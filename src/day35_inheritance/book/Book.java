@@ -9,7 +9,7 @@ public class Book {
     boolean hasMovie;
     Author author;
     // I have an object reference as instance variable
-    // When I call this instance variable to assign a value, since its data type is Author class, I need to assign an object to it.
+    // When I call this instance variable to assign day36_inheritance.app.access.day36_inheritance.access.a.a value, since its data type is Author class, I need to assign an object to it.
 
 
 }

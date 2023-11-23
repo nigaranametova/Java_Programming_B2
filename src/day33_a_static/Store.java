@@ -41,7 +41,7 @@ public class Store {
 
 
         System.out.println("############################");
-        // Can you make a new ArrayList that holds ony the Food which has unit price more than 0
+        // Can you make day36_inheritance.app.access.day36_inheritance.access.a.a new ArrayList that holds ony the Food which has unit price more than 0
         ArrayList<Food> foodPriceNotZero = new ArrayList<>(foodList);
         System.out.println(foodPriceNotZero);
         System.out.println("*****");

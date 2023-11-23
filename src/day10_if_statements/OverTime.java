@@ -7,8 +7,8 @@ public class OverTime {
 
         /*
 
-        create a double variable for your hourly rate
-        create a double variable for the number of hours worked
+        create day36_inheritance.app.access.day36_inheritance.access.a.a double variable for your hourly rate
+        create day36_inheritance.app.access.day36_inheritance.access.a.a double variable for the number of hours worked
 
         calculate your net pay, with consideration of overtime pay
 
@@ -28,7 +28,7 @@ public class OverTime {
         if numHours > 40
         overtimeHours = numHours - 40; // 42 -40
         netPay = (hourlyRate * 40) + (overtimeHours * hourlyRate * 1.5);
-        message = You worked 42 hours at a rate of $60, but 2 of the hours were overtime, so you got an additional pay for those hours. Your net pay is
+        message = You worked 42 hours at day36_inheritance.app.access.day36_inheritance.access.a.a rate of $60, but 2 of the hours were overtime, so you got an additional pay for those hours. Your net pay is
         $netPay
 
 

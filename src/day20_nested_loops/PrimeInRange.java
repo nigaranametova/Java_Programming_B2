@@ -2,8 +2,8 @@ package day20_nested_loops;
 /*
 [IQ] Prime in range
 
-Given a number. Print out all the prime numbers from 2 to that number.
- A prime number is a number that is only divisible by 1 and itself.
+Given day36_inheritance.app.access.day36_inheritance.access.a.a number. Print out all the prime numbers from 2 to that number.
+ A prime number is day36_inheritance.app.access.day36_inheritance.access.a.a number that is only divisible by 1 and itself.
 
 Ex:
     Input:

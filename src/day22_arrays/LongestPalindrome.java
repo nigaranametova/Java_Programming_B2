@@ -1,5 +1,4 @@
 package day22_arrays;
-
 /*
             [IQ] Longest Palindrome
                 Given a String array. Find the longest Palindrome String in your array.

@@ -2,8 +2,8 @@ package day07_relational_operators;
 
 public class SalaryCalculator {
     /*
-    create a class SalaryCalculator
-    add a main method
+    create day36_inheritance.app.access.day36_inheritance.access.a.a class SalaryCalculator
+    add day36_inheritance.app.access.day36_inheritance.access.a.a main method
     declare and assign these variables:
 
        salary, stateTaxRate, federalTaxRate,  stateTax, federalTax, totalTax, salaryAfterTax

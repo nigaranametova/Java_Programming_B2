@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class RemoveLongString {
     /*
     Remove Long Strings
-    Create a method that will accept an ArrayList of Strings and an int.
+    Create day36_inheritance.app.access.day36_inheritance.access.a.a method that will accept an ArrayList of Strings and an int.
 
     Remove any String elements that have less characters than the given number.
 

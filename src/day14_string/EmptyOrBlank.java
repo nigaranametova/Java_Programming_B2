@@ -24,7 +24,7 @@ public class EmptyOrBlank {
 
 
         str = " ";  //REASSIGNED it to " ";
-        System.out.println(str.isEmpty()); // empty space is a CHARACTER. So --- > false
+        System.out.println(str.isEmpty()); // empty space is day36_inheritance.app.access.day36_inheritance.access.a.a CHARACTER. So --- > false
 
 
         str = " ";

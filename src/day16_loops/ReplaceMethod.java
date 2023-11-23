@@ -3,13 +3,6 @@ package day16_loops;
 public class ReplaceMethod {
     public static void main(String[] args) {
 
-        String s = "java is a language";
-        System.out.println(s);
-        s = s.replace('a', 'e');
-        System.out.println(s);
-
-        s= s.replace('g', 'h');
-        System.out.println(s);
 
 
         System.out.println("-----------------");

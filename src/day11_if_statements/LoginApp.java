@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
 inputs:
-    declare and assign a 4 digit pin code
+    declare and assign day36_inheritance.app.access.day36_inheritance.access.a.a 4 digit pin code
     declare and assign the last 4 digits of ssn: 1234
 
     declare and assign expected values for both

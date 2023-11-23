@@ -1,6 +1,6 @@
 package day34_b_encapsulation.pizza;
 /*
-    create a class called day34_b_encapsulation.traffic.Pizza
+    create day36_inheritance.app.access.day36_inheritance.access.a.a class called day34_b_encapsulation.traffic.Pizza
 
     - data:
 
@@ -8,7 +8,7 @@ package day34_b_encapsulation.pizza;
 
     - constructor
 
-        - create a constructor that creates a day34_b_encapsulation.traffic.Pizza object with the size and the numberOfToppings
+        - create day36_inheritance.app.access.day36_inheritance.access.a.a constructor that creates day36_inheritance.app.access.day36_inheritance.access.a.a day34_b_encapsulation.traffic.Pizza object with the size and the numberOfToppings
 
             call setters here
 
@@ -18,7 +18,7 @@ package day34_b_encapsulation.pizza;
             size can only be:
                 small, medium, or large
 
-            number of toppings must be a positive number
+            number of toppings must be day36_inheritance.app.access.day36_inheritance.access.a.a positive number
 
     - other methods methods:
 

@@ -3,7 +3,7 @@ package day14_string;
 public class RecapMethods {
     public static void main (String [] args) {
 
-        String s = "pen"; // s is a String literal, si it is in the String Pool
+        String s = "pen"; // s is day36_inheritance.app.access.day36_inheritance.access.a.a String literal, si it is in the String Pool
         String s2 = new String ("pen");  // s2 is object in the heap, because we used 'new' keyword
 
 
@@ -58,7 +58,7 @@ public class RecapMethods {
 
         System.out.println("----------------");
         System.out.println("aaaaaa".length()); // 6
-        System.out.println("a    a".length()); // 6
+        System.out.println("day36_inheritance.app.access.day36_inheritance.access.a.a    day36_inheritance.app.access.day36_inheritance.access.a.a".length()); // 6
         System.out.println("".length()); // 0
         System.out.println(""); // This is just an empty String
 

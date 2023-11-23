@@ -2,7 +2,7 @@ package day19_nested_loops;
 
 /*
     Biggest substring of matching characters
-    Given a String find the biggest substring of chars that match and print it.
+    Given day36_inheritance.app.access.day36_inheritance.access.a.a String find the biggest substring of chars that match and print it.
     Ex: aaabbbcccccddddee Output: ccccc
  */
 public class BiggestString {
@@ -10,7 +10,7 @@ public class BiggestString {
         //Find the longest same characters
         /*
             loop through and get each character
-                store that into a new String --  aaa
+                store that into day36_inheritance.app.access.day36_inheritance.access.a.a new String --  aaa
          */
 
         String str = "aaabbbcccddddeeee"; // abcd

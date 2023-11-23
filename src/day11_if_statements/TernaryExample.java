@@ -14,7 +14,7 @@ public class TernaryExample {
         // In Java, there is shorter SYNTAX version of if else
         evenOrOdd = (a % 2 == 0) ? "Even" : "Odd";
         /*
-                     (a % 2 == 0)   ------ > condition
+                     (day36_inheritance.app.access.day36_inheritance.access.a.a % 2 == 0)   ------ > condition
                      ?              ------ > if TRUE or FALSE
                      "Even"         ------ > first value is always for TRUE
                      :              ------ > else

@@ -16,7 +16,7 @@ public class EligibleToVote {
             49
 
     determine if they are eligible to vote, they can only vote
-           1) if they are a citizen,
+           1) if they are day36_inheritance.app.access.day36_inheritance.access.a.a citizen,
            AND
            2) have no criminal background
            AND

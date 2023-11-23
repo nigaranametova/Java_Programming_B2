@@ -1,8 +1,6 @@
 package day03_print_statements;
 
-import java.sql.SQLOutput;
-
-public class quote {
+public class Quote {
     public static void main (String [] args){
 
 

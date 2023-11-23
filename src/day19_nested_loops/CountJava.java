@@ -1,6 +1,6 @@
 package day19_nested_loops;
 /*
-java is a language java
+java is day36_inheritance.app.access.day36_inheritance.access.a.a language java
  */
 
 public class CountJava {
@@ -11,7 +11,7 @@ public class CountJava {
      */
     public static void main(String[] args) {
 
-        String str = "java is a java language java"; // length - > 23
+        String str = "java is day36_inheritance.app.access.day36_inheritance.access.a.a java language java"; // length - > 23
         //            0123456789............22-23
         System.out.println(str.length());
         //

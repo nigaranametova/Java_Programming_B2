@@ -1,8 +1,8 @@
 package day12_switch_statements;
 
 /*
-Create a class called FieldTrip.
-Your school goes on a Field trip each year. The place you go will be based on your grade. Based on the grade level (1-6) figure out the details of your field trip. Print the information at the end.
+Create day36_inheritance.app.access.day36_inheritance.access.a.a class called FieldTrip.
+Your school goes on day36_inheritance.app.access.day36_inheritance.access.a.a Field trip each year. The place you go will be based on your grade. Based on the grade level (1-6) figure out the details of your field trip. Print the information at the end.
 
 declare and assign the grade level variable
 

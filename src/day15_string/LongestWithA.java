@@ -2,8 +2,8 @@ package day15_string;
 import java.util.Scanner;
 
 /*
-create a class LongestWithA
-ask the user to enter 3 String inputs. Find and print the longest word that also contains 'a'
+create day36_inheritance.app.access.day36_inheritance.access.a.a class LongestWithA
+ask the user to enter 3 String inputs. Find and print the longest word that also contains 'day36_inheritance.app.access.day36_inheritance.access.a.a'
 
 Ex:
     "java"
@@ -12,7 +12,7 @@ Ex:
 
 Output: java
 
-Challenge: Instead of just checking for "a" add another variable that can be used to check for any character.
+Challenge: Instead of just checking for "day36_inheritance.app.access.day36_inheritance.access.a.a" add another variable that can be used to check for any character.
  */
 public class LongestWithA {
     public static void main(String[] args) {
@@ -31,20 +31,20 @@ public class LongestWithA {
 
 
         /*
-            if myWord contains "a" AND the length of String of that word is the biggest
+            if myWord contains "day36_inheritance.app.access.day36_inheritance.access.a.a" AND the length of String of that word is the biggest
          */
         String message = "";
 
         if (wordOne.contains("a") && wordOneLength >= wordTwoLength && wordOneLength >= wordThreeLength) {
-            message = "Your longest word with 'a' is: " + wordOne;
+            message = "Your longest word with 'day36_inheritance.app.access.day36_inheritance.access.a.a' is: " + wordOne;
 
         } else if (wordTwo.contains("a") && wordTwoLength >= wordOneLength && wordTwoLength >= wordThreeLength) {
-            message = "Your longest word with 'a' is: " + wordTwo;
+            message = "Your longest word with 'day36_inheritance.app.access.day36_inheritance.access.a.a' is: " + wordTwo;
 
         } else if (wordThree.contains("a") && wordThreeLength >= wordOneLength && wordThreeLength >= wordTwoLength) {
-            message = "Your longest word with 'a' is: " + wordThree;
+            message = "Your longest word with 'day36_inheritance.app.access.day36_inheritance.access.a.a' is: " + wordThree;
         } else {
-            message = "Our longest does not have \"a\"";
+            message = "Our longest does not have \"day36_inheritance.app.access.day36_inheritance.access.a.a\"";
         }
 
         System.out.println(message);
