@@ -5,7 +5,7 @@ public class TypeCasting {
 
         byte b = 40;
         int i = b;  // the byte value is automatically CONVERTED to int, because byte is smalled than int
-        // We are not changing the data type of b, we are changing the data type of the value we are assigning to i taking i from b
+        // We are not changing the data type of B, we are changing the data type of the value we are assigning to i taking i from B
 
         System.out.println(b);
         System.out.println(i);

@@ -1,6 +1,6 @@
 package day38_a_abstraction_interface.shopping;
 
-// Interface - we cannot instantiate / cannot create object
+// Interface - we cannot instantiate / cannot day38_a_abstraction_interface.create object
 // all variables are - > public static final
 // the methods by default is - > public abstract
 public interface Shipping {

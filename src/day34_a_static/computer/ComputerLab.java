@@ -17,7 +17,7 @@ public class ComputerLab {
         // We still can day36_inheritance.day36_inheritance.app.app.access the static members witht the object reference but it is NOT RECOMMENDED.
 
         //System.out.println(Computer.brand); // CANNOT DO THIS
-        // In order to day36_inheritance.day36_inheritance.app.app.access to INSTANCE VARIABLES we HAVE TO create an OBJECT of class
+        // In order to day36_inheritance.day36_inheritance.app.app.access to INSTANCE VARIABLES we HAVE TO day38_a_abstraction_interface.create an OBJECT of class
 
 
 

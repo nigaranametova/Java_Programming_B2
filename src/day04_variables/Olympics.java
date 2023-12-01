@@ -6,7 +6,7 @@ public class Olympics {
     /*
         class name Olympics
 
-            create a variable for the year
+            day38_a_abstraction_interface.create a variable for the year
             print the country and year for next couple events
             reassign year value each time. Country name is hard coded
 

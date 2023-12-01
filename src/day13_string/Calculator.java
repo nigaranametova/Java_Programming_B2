@@ -6,7 +6,7 @@ import java.util.Scanner;
 declare and assign 2 number variables
 declare and assign day36_inheritance.app.access.day36_inheritance.access.a.a char variable for an operator
 
-create day36_inheritance.app.access.day36_inheritance.access.a.a calculator based on the operator picked
+day38_a_abstraction_interface.create day36_inheritance.app.access.day36_inheritance.access.a.a calculator based on the operator picked
     + : add num1 and num2
     - : minus num1 and num2
     * : multiply num1 and num2

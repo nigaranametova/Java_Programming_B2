@@ -62,7 +62,7 @@ public class FrequencyOfCharacters {
                     // Inner loop
                     for (int j = 0; j < str.length(); j++) {            // j = 0 -- > j = 1 -- >  j = 2; ------> j = 3; -----> j = 4;  ---> j = 5; -- > j = 6
 
-                        if (eachLetter == str.charAt(j)) {              // 'o' == 'd' | 'o' == 'o' | 'o' == 'u' | 'o' == 'b' | 'o' == 'l' | 'o' == 'e'
+                        if (eachLetter == str.charAt(j)) {              // 'o' == 'd' | 'o' == 'o' | 'o' == 'u' | 'o' == 'B' | 'o' == 'l' | 'o' == 'e'
 
                             count++;                                    // count = 1; | count = 1; |  count = 1; | count = 1; | count = 1 | count = 1
 
@@ -94,7 +94,7 @@ public class FrequencyOfCharacters {
                 // Inner loop
                 for (int j = 0; j < str.length(); j++) {            // j = 0 -- > j = 1 -- >  j = 2; ------> j = 3; -----> j = 4;  ---> j = 5; -- > j = 6
 
-                    if (eachLetter == str.charAt(j)) {              // 'o' == 'd' | 'o' == 'o' | 'o' == 'u' | 'o' == 'b' | 'o' == 'l' | 'o' == 'e'
+                    if (eachLetter == str.charAt(j)) {              // 'o' == 'd' | 'o' == 'o' | 'o' == 'u' | 'o' == 'B' | 'o' == 'l' | 'o' == 'e'
 
                         count++;                                    // count = 1; | count = 1; |  count = 1; | count = 1; | count = 1 | count = 1
 

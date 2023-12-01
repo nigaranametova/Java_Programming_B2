@@ -3,7 +3,7 @@ package day38_a_abstraction_interface.language;
 public class Translator {
     public static void main(String[] args) {
         //Language obj = new Language();
-        // Cannot create object of Interface
+        // Cannot day38_a_abstraction_interface.create object of Interface
 
         Spanish obj2 = new Spanish();
         obj2.hi();

@@ -2,7 +2,7 @@ package day15_string;
 import java.util.Scanner;
 
 /*
-create day36_inheritance.app.access.day36_inheritance.access.a.a class LongestWithA
+day38_a_abstraction_interface.create day36_inheritance.app.access.day36_inheritance.access.a.a class LongestWithA
 ask the user to enter 3 String inputs. Find and print the longest word that also contains 'day36_inheritance.app.access.day36_inheritance.access.a.a'
 
 Ex:

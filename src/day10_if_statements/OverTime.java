@@ -7,8 +7,8 @@ public class OverTime {
 
         /*
 
-        create day36_inheritance.app.access.day36_inheritance.access.a.a double variable for your hourly rate
-        create day36_inheritance.app.access.day36_inheritance.access.a.a double variable for the number of hours worked
+        day38_a_abstraction_interface.create day36_inheritance.app.access.day36_inheritance.access.a.a double variable for your hourly rate
+        day38_a_abstraction_interface.create day36_inheritance.app.access.day36_inheritance.access.a.a double variable for the number of hours worked
 
         calculate your net pay, with consideration of overtime pay
 

@@ -20,7 +20,7 @@ public class CopyExample {
     public static void main(String[] args) {
 
         int  []  a = {1, 2, 3 };
-        int [] b = a;  // 'b' is another array reference/name but the array is the same as the one 'a' is pointing
+        int [] b = a;  // 'B' is another array reference/name but the array is the same as the one 'a' is pointing
 
 
         System.out.println(Arrays.toString(a));
@@ -30,7 +30,7 @@ public class CopyExample {
         a[1] = 200;
 
         System.out.println(Arrays.toString(a));
-        System.out.println(Arrays.toString(b));  // Since 'b' is still pointing to 'a', it will have the updated values as well.
+        System.out.println(Arrays.toString(b));  // Since 'B' is still pointing to 'a', it will have the updated values as well.
 
         System.out.println();
 

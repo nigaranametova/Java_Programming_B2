@@ -46,7 +46,7 @@ public class SplitExample {
 
         //"*feb-mar-apr-may-jun-jul-avg-sep-nov-oct-dec";
         System.out.println("-----------------");
-        String [] arr3 = months.split(""); // ["*", "f", "e", "b", "-", "m".............]
+        String [] arr3 = months.split(""); // ["*", "f", "e", "B", "-", "m".............]
         for (String eachElem : arr3) {
             System.out.println(eachElem);
         }
