@@ -2,7 +2,7 @@ package day11_if_statements;
 
 public class Diver {
     /*
-  create day36_inheritance.app.access.day36_inheritance.access.a.a class Diver
+  day38_a_abstraction_interface.create day36_inheritance.app.access.day36_inheritance.access.a.a class Diver
 
   You are diving in the ocean. Your oxygen tank has day36_inheritance.app.access.day36_inheritance.access.a.a certain level (number)
 

@@ -1,5 +1,5 @@
 package day38_a_abstraction_interface.interface_methods;
-// Interface - > cannot be instantiated / cannot create object
+// Interface - > cannot be instantiated / cannot day38_a_abstraction_interface.create object
 // inst variables are - > CONSTANTS / public static final
 // all methods with return type and name and with no body -- >  is public abstract methods.
 public interface Mac {

@@ -3,8 +3,8 @@ package day05_variables;
 public class CellPhone {
 
     /*
-        create a class CellPhone
-        create a main method
+        day38_a_abstraction_interface.create a class CellPhone
+        day38_a_abstraction_interface.create a main method
         declare and assign these variables:
             brand, model, color, price, storage, hasCamera, sim(char A, B, C)
 

@@ -29,7 +29,7 @@ public class Library {
         //eb1.listen();
 
 
-        // Here I create object of Author class and assigned it to Author a1 reference
+        // Here I day38_a_abstraction_interface.create object of Author class and assigned it to Author a1 reference
         Author a1 = new Author("Winnie Pooh", -10);
         System.out.println(a1.getAge()); // 0
 

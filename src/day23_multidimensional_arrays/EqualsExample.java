@@ -19,7 +19,7 @@ public class EqualsExample {
         // How can I compare the values of the arrays?
         System.out.println(Arrays.equals(a, b));
 
-        //System.out.println(a.equals(b)); // We can not use just the .equals() method with arrays.
+        //System.out.println(a.equals(B)); // We can not use just the .equals() method with arrays.
 
 
         int [] d = {3, 2, 1};

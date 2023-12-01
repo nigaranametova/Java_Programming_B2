@@ -19,7 +19,7 @@ public class Initials {
         System.out.print("Enter last name: ");
         String lastName = input.next().toUpperCase();
 
-        String initials = "" + firstName.charAt(0) + lastName.charAt(0); // 'j' + 'b' --> number + number
+        String initials = "" + firstName.charAt(0) + lastName.charAt(0); // 'j' + 'B' --> number + number
 
         // You can apply .toUpperCase here as well.
         System.out.println("Your initial: " + initials.toUpperCase());

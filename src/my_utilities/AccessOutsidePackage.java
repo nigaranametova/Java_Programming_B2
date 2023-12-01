@@ -10,7 +10,7 @@ public class AccessOutsidePackage {
 
         AccessModifier obj = new AccessModifier();
         System.out.println(obj.a);  // CAN ACCESS
-        //System.out.println(obj.b);  // CANNOT  ACCESS
+        //System.out.println(obj.B);  // CANNOT  ACCESS
         //System.out.println(obj.c);  // CANNOT ACCESS
 
 
@@ -24,7 +24,7 @@ public class AccessOutsidePackage {
          * Because they have PRIVATE modifiers
          *
          *
-         * 'b' and 'y' are NOT ACCESSIBLE out-side of the package
+         * 'B' and 'y' are NOT ACCESSIBLE out-side of the package
          * Because they have DEFAULT modifiers
          */
 

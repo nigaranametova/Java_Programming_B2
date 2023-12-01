@@ -57,7 +57,7 @@ public class GoodPair {
             System.out.println(nums2);
 
 
-            // TODO:  do the task taking into the consideration the original arrayList size is changeable. So, create another array to handle that
+            // TODO:  do the task taking into the consideration the original arrayList size is changeable. So, day38_a_abstraction_interface.create another array to handle that
 
 
 

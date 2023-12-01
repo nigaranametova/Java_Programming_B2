@@ -3,7 +3,7 @@ package day16_loops;
 public class MiddleChar {
     /*
 	Given day36_inheritance.app.access.day36_inheritance.access.a.a String, write day36_inheritance.app.access.day36_inheritance.access.a.a program to display the middle character of day36_inheritance.app.access.day36_inheritance.access.a.a string
-	day36_inheritance.app.access.day36_inheritance.access.a.a) If the length of the string is even there will be two middle characters.    b) If the length of the string is odd there will be one middle character.
+	day36_inheritance.app.access.day36_inheritance.access.a.a) If the length of the string is even there will be two middle characters.    B) If the length of the string is odd there will be one middle character.
         Ex:
         Input: elephant
         Output: The middle characters: ph

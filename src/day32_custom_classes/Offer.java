@@ -10,14 +10,14 @@ public class Offer {
     int numberOfPTO;
 
 
-    // create day36_inheritance.app.access.day36_inheritance.access.a.a constructor with two parameters - company and location
+    // day38_a_abstraction_interface.create day36_inheritance.app.access.day36_inheritance.access.a.a constructor with two parameters - company and location
     public Offer (String company, String location){
         this.company = company;
         this.location = location;
     }
 
 
-    //create day36_inheritance.app.access.day36_inheritance.access.a.a constructor with all parameters - company, location, salary, isFullTime, numberOfPTO
+    //day38_a_abstraction_interface.create day36_inheritance.app.access.day36_inheritance.access.a.a constructor with all parameters - company, location, salary, isFullTime, numberOfPTO
     public Offer (String company, String location, double salary, boolean isFullTime, int numberOfPTO) {
         this.company = company;
         this.location = location;

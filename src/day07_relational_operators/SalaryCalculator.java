@@ -2,7 +2,7 @@ package day07_relational_operators;
 
 public class SalaryCalculator {
     /*
-    create day36_inheritance.app.access.day36_inheritance.access.a.a class SalaryCalculator
+    day38_a_abstraction_interface.create day36_inheritance.app.access.day36_inheritance.access.a.a class SalaryCalculator
     add day36_inheritance.app.access.day36_inheritance.access.a.a main method
     declare and assign these variables:
 

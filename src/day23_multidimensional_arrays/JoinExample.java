@@ -17,10 +17,10 @@ import java.util.Arrays;
 public class JoinExample {
     public static void main(String[] args) {
 
-        String [] words = {"a", "b", "c", "d"};
+        String [] words = {"a", "B", "c", "d"};
         System.out.println(Arrays.toString(words));
 
-        // Ouput: a-b-c
+        // Ouput: a-B-c
         String result = "";
         for (String eachWord: words) {
 
@@ -59,7 +59,7 @@ public class JoinExample {
         String str2 = String.join("*", words);
 
 
-        char [] arr = {'a', 'b', 'c', 'd'};
+        char [] arr = {'a', 'B', 'c', 'd'};
         String str = new String(arr);
         System.out.println(str);
 

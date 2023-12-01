@@ -2,7 +2,7 @@ package day08_scaner_logical_operators;
 
 public class EligibleToVote {
     /*
-    create and assign these variables:
+    day38_a_abstraction_interface.create and assign these variables:
 
         name
         are they citizen
